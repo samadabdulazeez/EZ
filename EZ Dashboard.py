@@ -131,10 +131,10 @@ st.markdown("""
     align-items:center;
 ">
     <div style="flex:1;">
-        Recent Job:
-        Software Engineering Trainee
+        Student Opportunity:
+        Exchange Met – Student Interest & Pathways Form
         <p style="font-size:16px; font-weight:400;">
-            This position is for a student with a strong interest in software engineering.
+            This was created in partnership with Exchange Met advisors and supported by the Family Ambassador program. This form helps students identify interests, strengths, and the types of experiences they are open to. Information may be shared with school staff to support planning and potential industry matching.
         </p>
         <div style="display:flex; gap:10px; margin-top:10px;">
             <button style="
@@ -146,7 +146,7 @@ st.markdown("""
                 font-weight:600;
                 cursor:pointer;
             ">Learn More</button>
-            <a href="https://forms.gle/g2oadkZ8y3JUxigU9" target="_blank" style="
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbFDCIF6_iYh1f6nsqFdCJ0f9xmwaxPvh4uSmwS5PgHOBYOw/viewform?usp=sharing&ouid=111148685278668903790" target="_blank" style="
                 padding:8px 16px;
                 border:none;
                 border-radius:5px;
